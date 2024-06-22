@@ -6,9 +6,8 @@ This guide will help you set up the project on your local machine.
 #### Step 1: Clone the Project
 First, clone the project repository using the following command:
 ```bash
-git clone <repository_url>
+git clone https://github.com/ketan12sharma/fastapi-test.git
 ```
-Replace `<repository_url>` with the actual URL of the repository.
 
 #### Step 2: Set Up a Virtual Environment
 Navigate to the project directory and create a virtual environment to isolate the project's dependencies. Follow these steps:
